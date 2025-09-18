@@ -5,7 +5,7 @@
 -------------------
 
 Brainly is a web application designed to help users organize and share their knowledge and learning resources. The application allows users to create, store, and share notes, links, and other types of content.
-
+https://brainly-notes.vercel.app/
 **Features**
 ------------
 
