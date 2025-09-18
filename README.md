@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 **Acknowledgments**
 ------------------
 
-* [Bashar Khan](https://github.com/prikshitbuilds) - Project maintainer and contributor
+* [Prikshit Sharma](https://github.com/prikshitbuilds) - Project maintainer and contributor
